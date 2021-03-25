@@ -90,7 +90,7 @@ python-editor==1.0.4
 python-slugify==1.2.5
 PyTweening==1.0.3
 pytz==2019.3
-PyYAML==5.3
+PyYAML==5.4
 pyzbar==0.1.8
 qrcode==6.1
 qrtools==0.0.1
