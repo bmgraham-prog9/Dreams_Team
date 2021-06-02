@@ -108,7 +108,7 @@ tensorflow-estimator==2.1.0
 termcolor==1.1.0
 tkcalendar==1.6.1
 Unidecode==1.1.1
-urllib3==1.25.8
+urllib3==1.26.5
 utils==1.0.1
 virtualenv==20.0.3
 virtualenv-clone==0.5.3
